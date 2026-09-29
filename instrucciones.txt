@@ -1,0 +1,22 @@
+ /////////////////////////////
+ * RECUERDA PRIMERO INSTALAR LA ÚLTIMA VERSIÓN DE NODE
+ /////////////////////////////
+
+   2 ls                                                                                                                                                                                                                          
+   3 cd .\backend\                                                                                                                                                                                                               
+   4 npm install      
+   npm run start:dev                                                                                                                                                                                                           
+   5 clear                                                                                                                                                                                                                       
+   6 cd ..                                                                                                                                                                                                                       
+   7 cd .\frontend\                                                                                                                                                                                                              
+   8 npm install                                                                                                                                                                                                                 
+   9 npm run web                                                                                                                                                                                                                 
+  10 clear                                                                                                                                                                                                                       
+  11 ls                                                                                                                                                                                                                          
+  12 cd ..                                                                                                                                                                                                                       
+  13 clear                                                                                                                                                                                                                       
+  14 ls                                                                                                                                                                                                                          
+  
+  AYUDA:
+    11 npm run web
+    12 npm run start:dev
