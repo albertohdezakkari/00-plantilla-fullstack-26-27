@@ -9,4 +9,9 @@ export class AppController {
   getHello(): string {
     return "Hola"
   }
+  
+  @Get('hello2')
+  getHello2(): string {
+    return "Hola Challenge Examen Enma"
+  }
 }

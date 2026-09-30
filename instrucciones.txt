@@ -20,3 +20,7 @@
   AYUDA:
     11 npm run web
     12 npm run start:dev
+
+    npx create-expo-app@latest challenge2-front-rn --template blank-typescript
+    npx expo install react-native-safe-area-context react-native-screens react-dom react-native-web
+
